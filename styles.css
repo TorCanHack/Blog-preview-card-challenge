@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+    
+    
+}
+
+body {
+    display: flex;
+    margin: none;
+    overflow: hidden;
+    background-color: hsl(47, 88%, 63%);
+    font-family: 'Figtree';
+    
+}
+
+a:hover {
+    cursor: url("https://i.postimg.cc/xC5Q8vK5/65-653259-black-hand-cursor-png.png"), pointer;
+
+}
+
+.Box1 {
+    position: relative;
+    top: 100px;
+    min-height: 31rem;
+    width: 25px;
+    min-width: 369px;
+    margin: 0 auto;
+    padding: 50px;
+    margin: 20px auto;
+    background-color: whitesmoke;
+    box-shadow: 12px 12px hsl(0, 0%, 7%);
+    border-radius: 20px;
+}
+
+
+.Box2 {
+    position: relative;
+    top: -30px;
+    left: -25px;
+    border: 1px solid black;
+    height: 28vh;
+    width: 120px;
+    margin: auto;
+    background-color: yellow;
+    border-radius: 5px;
+}
+
+.background {
+    position: relative;
+    top: -37px;
+    left: -38px;
+    width: 22rem;
+    border: 1px solid white;
+    border-radius: 12px;
+}
+
+.subtext {
+    position: relative;
+    top: -3rem;
+    right: 2rem;
+    width: 70px;
+    height: 3.5vh;
+    background-color: hsl(47, 88%, 63%);
+    border: 1px solid white;
+    border-radius: 6px;;
+
+}
+
+.date {
+    position: relative;
+    top: -3rem;
+    right: 2rem;
+}
+
+.heading {
+    position: relative;
+    top: -3rem;
+    right: 2rem;
+    width: 1500px;
+    color: hsl(47, 88%, 63%);
+}
+
+p {
+    position: relative;
+    top: -3.4rem;
+    right: 2rem;
+    color: hsl(0, 0%, 50%);
+    font-size: 16px;
+}
+
+.avatar {
+    position: relative;
+    top: -3rem;
+    right: 2rem;
+    width: 12%;
+}
+
+.name {
+    position: relative;
+    top: -6rem;
+    left: 10px;
+}
+
+@media screen and (min-height: 60vh) {
+    .Box1 {
+        height: 35vh;
+    }
+}
+@media screen amd (min-width: 378px) {
+    body{
+        width: 300px;
+    }
+    
+}
