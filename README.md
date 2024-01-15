@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TorCanHack/Blog-preview-card-challenge)
-- Live Site URL: [Add live site URL here](https://torcanhack.github.io/Blog-preview-card-challenge/)
+- Solution URL: [Solution URL](https://github.com/TorCanHack/Blog-preview-card-challenge)
+- Live Site URL: [Live site URL](https://torcanhack.github.io/Blog-preview-card-challenge/)
 
 ## My process
 
